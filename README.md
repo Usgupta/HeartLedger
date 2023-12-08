@@ -103,6 +103,11 @@ Below are instructions to get started:
    ```sh
    npm run dev
    ```
+5. Run Test
+   Ensure you have setup the truffle config environment(e.g. Ganache for Local Testing)
+   ```sh
+   truffle test
+   ```
 
 ### Specification
 
